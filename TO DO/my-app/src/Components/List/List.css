@@ -1,0 +1,17 @@
+.tachado {
+    text-decoration: line-through;
+    color: red;
+    font-weight: bold;
+    font-style: italic;
+}
+
+li{
+    cursor: pointer;
+    list-style-type : none;
+}
+
+/* footer{
+    background-color: cadetblue;
+} */
+
+
